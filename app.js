@@ -22,4 +22,4 @@ function mahgod(person) {
 
     }
 
-}
+};
